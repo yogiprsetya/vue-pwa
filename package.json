@@ -1,7 +1,7 @@
 {
-    "name": "warehouse",
+    "name": "vue-pwa",
     "version": "1.0.0",
-    "description": "",
+    "description": "Basic PWA setup.",
     "main": "index.js",
     "scripts": {
         "dev": "webpack-dev-server --progress",
@@ -12,7 +12,7 @@
     "pwa",
     "vue"
     ],
-    "author": "",
+    "author": "Yogi Prasetya",
     "license": "ISC",
     "devDependencies": {
         "@babel/core": "^7.5.5",
